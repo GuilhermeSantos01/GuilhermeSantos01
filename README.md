@@ -1,6 +1,5 @@
 
 <div>
-    <a href="https://beacons.ai/GuilhermeSantos01">
     <img height="180em" src="https://github-readme-status.vercel.app/api?username=GuilhermeSantos01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
-    <img height="180em" src>
+    <img height="180em" src="
 <div>
