@@ -1,7 +1,6 @@
 <div align="center">
 
- <a href="https://github.com/GuilhermeSantos01">
- ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSantos01theme=dark&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos01&layout=compact)](https://github.com/GuilhermeSantos01/github-readme-stats) 
-   
-   </div>
+<img height="180em" src="https://github-readme-stats .vercel.app/api?username=GuilhermeSantos01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" / > 
+<img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos01&layout-compact&langs_count-16&theme=dark"/>
+  
+   <div>
